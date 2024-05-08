@@ -19,12 +19,12 @@
 
 ## Conclusions
 - Key Drivers for Customer Loan Default are
--- High Customer Loan Amount to Annual Income ratio
--- Higher Interest Rate
--- High number of instalments
--- Customer’s delay in instalment payments
--- Loan sanctioned to bad Customer credit grades
--- Customers who do not own a retail property
+- 1) High Customer Loan Amount to Annual Income ratio
+- 2) Higher Interest Rate
+- 3) High number of instalments
+- 4) Customer’s delay in instalment payments
+- 5) Loan sanctioned to bad Customer credit grades
+- 6) Customers who do not own a retail property
 
 
 
